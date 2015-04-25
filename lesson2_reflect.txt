@@ -23,3 +23,7 @@ it shows how and what features/bugs are being worked on
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 we can merge two features easily....diagram to clearly show the commits in each branch.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pros --it's being done automatically
+cons -- many time the merged code will not make sense
+
