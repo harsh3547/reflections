@@ -11,5 +11,9 @@ How can you use the staging area to make sure you have one commit per logical ch
 by using git diff
 
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
+in experimenting with new features when collaborating with others on a project.
+one can switch when one gets bored working on a feature to another feature.
+one can create a branch to solve a bug so that you can fully concentrate on bug solving.
 
