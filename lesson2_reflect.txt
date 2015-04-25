@@ -17,3 +17,6 @@ in experimenting with new features when collaborating with others on a project.
 one can switch when one gets bored working on a feature to another feature.
 one can create a branch to solve a bug so that you can fully concentrate on bug solving.
 
+How do the diagrams help you visualize the branch structure?
+it shows how and what features/bugs are being worked on
+
