@@ -4,4 +4,4 @@ a .git folder is created. it is needed to record and track changes in the reposi
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-staging area is the go between the two. we can choose which files to commit via the staging area.
+staging area is the go between the two. we can choose which files to commit via the staging area....
