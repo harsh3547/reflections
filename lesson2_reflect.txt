@@ -20,3 +20,6 @@ one can create a branch to solve a bug so that you can fully concentrate on bug 
 How do the diagrams help you visualize the branch structure?
 it shows how and what features/bugs are being worked on
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+we can merge two features easily....diagram to clearly show the commits in each branch.
+
